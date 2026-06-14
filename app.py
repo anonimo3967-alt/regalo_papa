@@ -172,7 +172,6 @@ if st.session_state.desbloqueado:
             te agradezco por el esfuerzo sea cual sea la forma por la que descubriste la contraseña. Te quería decir que muchas
             gracias por tenerme toda la paciencia del mundo y obviamente por algo puse ese simbolo arriba de la página... Es considerado
             como el simbolo de la benevolencia en un videojuego. 
-
             Te agradezco por ser un buen padre a pesar de todo por lo que tuviste que pasar en la vida. Espero poder agradecerte
             propiamente algún día, yo se que a veces he sido una decepción pero eso no significa que en el futuro lo siga siendo,
             seguramente con el paso del tiempo pueda agradecerte de verdad.
