@@ -141,7 +141,7 @@ st.write("Introduce la clave secreta familiar para abrir tu regalo:")
 # Input de clave
 password = st.text_input("Contraseña:", type="password", key="pwd_input")
 
-if st.button("Abrir Regalo 🎁", use_container_width=True):
+if st.button("Descubre el regalo... cuando tengas la contraseña", use_container_width=True):
     # Cambia "benevolencia2026" por la contraseña exacta que quieras usar
     if password.lower() == "merci": 
         st.session_state.desbloqueado = True
@@ -160,7 +160,7 @@ if st.button("Abrir Regalo 🎁", use_container_width=True):
 
 # --- CONTENIDO DE TU CARTA (Aparece al validar) ---
 if st.session_state.desbloqueado:
-    st.balloons() # Lluvia de globos nativa
+    st.snow() # Lluvia de globos nativa
     
     # Caja de texto elegante tipo tarjeta física que combina con tu color personalizado
     st.markdown(f"""
