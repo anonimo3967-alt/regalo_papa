@@ -165,17 +165,27 @@ if st.session_state.desbloqueado:
     # Caja de texto elegante tipo tarjeta física que combina con tu color personalizado
     st.markdown(f"""
     <div style="background-color: #1e1e24; padding: 35px; border-radius: 15px; border: 1px solid {custom_color}; box-shadow: 0px 10px 30px rgba(0,0,0,0.5); margin-top: 30px;">
-        <h2 style="color: {custom_color}; text-align: center; font-family: 'Helvetica Neue', sans-serif;">Querido Papá,</h2>
+        <h2 style="color: {custom_color}; text-align: center; font-family: 'Helvetica Neue', sans-serif;">Hola Pa,</h2>
         <br>
         <p style="font-size: 1.15rem; color: #e0e0e6; line-height: 1.8; text-align: justify; font-family: 'Georgia', serif;">
-            [Aquí borras este texto y redactas tu carta personalizada] <br><br>
-            ¡Escribe aquí todo lo que significa la palabra 'Benevolencia' en tu vida gracias a él, 
-            tus anécdotas o tus palabras de agradecimiento más profundas!
+            Hola pa! si estas leyendo esto es porque adivinaste la contraseña o llegaste hasta el punto final en la bicicleta,
+            te agradezco por el esfuerzo sea cual sea la forma por la que descubriste la contraseña. Te quería decir que muchas
+            gracias por tenerme toda la paciencia del mundo y obviamente por algo puse ese simbolo arriba de la página... Es considerado
+            como el simbolo de la benevolencia en un videojuego. <br> <br>
+
+            Te agradezco por ser un buen padre a pesar de todo por lo que tuviste que pasar en la vida. Espero poder agradecerte
+            propiamente algún día, yo se que a veces he sido una decepción pero eso no significa que en el futuro lo siga siendo,
+            seguramente con el paso del tiempo pueda agradecerte de verdad.
+
+            Muchas gracias por esforzarte para darnos lo mejor a mi mamá y a mi, lo aprecio y creo que mi mamá tambien.
+
+            Y muchas gracias por quererme. Creo que hay cierto merito y valor en que haya amor en una familia, pues creo que es algo de lo que a
+            veces el mundo carece. 
         </p>
         <br>
         <p style="text-align: right; font-weight: bold; color: {custom_color}; font-size: 1.2rem; font-family: 'Helvetica Neue', sans-serif;">
-            Con toda mi admiración y amor,<br>
-            [Tu Nombre] ❤️
+            Con toda mi admiración,<br>
+            Jose Juan
         </p>
     </div>
     """, unsafe_allow_html=True)
