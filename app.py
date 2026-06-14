@@ -171,13 +171,11 @@ if st.session_state.desbloqueado:
             Hola pa! si estas leyendo esto es porque adivinaste la contraseña o llegaste hasta el punto final en la bicicleta,
             te agradezco por el esfuerzo sea cual sea la forma por la que descubriste la contraseña. Te quería decir que muchas
             gracias por tenerme toda la paciencia del mundo y obviamente por algo puse ese simbolo arriba de la página... Es considerado
-            como el simbolo de la benevolencia en un videojuego. 
+            como el simbolo de la benevolencia en un videojuego. <br>
             Te agradezco por ser un buen padre a pesar de todo por lo que tuviste que pasar en la vida. Espero poder agradecerte
             propiamente algún día, yo se que a veces he sido una decepción pero eso no significa que en el futuro lo siga siendo,
-            seguramente con el paso del tiempo pueda agradecerte de verdad.
-
+            seguramente con el paso del tiempo pueda agradecerte de verdad. <br>
             Muchas gracias por esforzarte para darnos lo mejor a mi mamá y a mi, lo aprecio y creo que mi mamá tambien.
-
             Y muchas gracias por quererme. Creo que hay cierto merito y valor en que haya amor en una familia, pues creo que es algo de lo que a
             veces el mundo carece. 
         </p>
