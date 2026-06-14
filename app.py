@@ -78,7 +78,7 @@ body, .main-bg {{
 <div class="main-bg"></div>
 
 <!-- Link del archivo de audio (Reemplázalo por el .mp3 que gustes) -->
-<audio id="bg-music" src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" preload="auto"></audio>
+<audio id="bg-music" src="https://www.youtube.com/watch?v=GEg44LUfCHA" preload="auto"></audio>
 
 <script>
 // Escuchador que activa Streamlit cuando la clave es correcta
