@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.image("Benevolence-Sol.png", width="stretch")
+st.image("Benevolence-sol.png")
