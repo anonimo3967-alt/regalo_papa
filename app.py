@@ -160,7 +160,7 @@ if st.button("Descubre el regalo... cuando tengas la contraseña", use_container
 
 # --- CONTENIDO DE TU CARTA (Aparece al validar) ---
 if st.session_state.desbloqueado:
-    st.snow() # Lluvia de globos nativa
+    st.ballons() # Lluvia de globos nativa
     
     # Caja de texto elegante tipo tarjeta física que combina con tu color personalizado
     st.markdown(f"""
