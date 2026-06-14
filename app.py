@@ -143,7 +143,7 @@ password = st.text_input("Contraseña:", type="password", key="pwd_input")
 
 if st.button("Abrir Regalo 🎁", use_container_width=True):
     # Cambia "benevolencia2026" por la contraseña exacta que quieras usar
-    if password.lower() == "benevolencia2026": 
+    if password.lower() == "merci": 
         st.session_state.desbloqueado = True
         
         # Disparador JavaScript para abrir las puertas físicas en el navegador y reproducir música
@@ -155,7 +155,7 @@ if st.button("Abrir Regalo 🎁", use_container_width=True):
         """
         components.html(trigger_js, height=0, width=0)
     else:
-        st.error("Esa no es la clave secreta... ¡Inténtalo de nuevo, papá!")
+        st.error("Esa no es la clave...")
 
 
 # --- CONTENIDO DE TU CARTA (Aparece al validar) ---
